@@ -1,27 +1,28 @@
 # HandOfHelp
 This utility helps you to get information in a hidden way. It can be useful for spies or students 🤫
 
+## Pathes
 
 Tesseract.exe path
-C:/Program Files/Tesseract-OCR/tesseract.exe
+> C:/Program Files/Tesseract-OCR/tesseract.exe
 
-data path
-C:/users/data.pdf
+Data path
+> C:/users/data.pdf
 
-----Usage----
+## Usage
 
  When you have started the utility, 
  press left mouse button and move it to the right bottom corner
  of the imaginary frame, where your exam questions will appear.
  Then you will see red label that says "Placed". The utility is ready to use.
 
- alt - show hidden text
-  .  - next text block
-  ,  - previous text block
- q+w - deactivate hidden text (only activation meaasge is showed)
-  a  - activate (all functions are working)
+- "alt" - show hidden text
+- " . " - next text block
+- " , " - previous text block
+- "q+w" - deactivate hidden text (only activation meaasge is showed)
+- " a " - activate (all functions are working)
 
---- How it works ---
+## How it works
 
  1. You draw a frame, where your test will appear
  2. Utility creates a transparent window in the corner
